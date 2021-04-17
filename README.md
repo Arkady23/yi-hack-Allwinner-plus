@@ -1,15 +1,15 @@
 # yi-hack-Allwinner+
 This add-on supports the following camera models:  
-– Yi 1080p Home 9FUS (8.2.0*),  
-– Yi 1080p Home BFUS (8.2.0*),  
-– Yi 1080p Home BFCN (8.2.0*),  
-– Yi 1080p Home 9FUS (8.3.0*),  
+– Yi 1080p Home 9FUS (8.2.0*);  
+– Yi 1080p Home BFUS (8.2.0*);  
+– Yi 1080p Home BFCN (8.2.0*);  
+– Yi 1080p Home 9FUS (8.3.0*).  
 
 Дополнение поддерживает следующие модели камер:  
-– Yi 1080p Home 9FUS (8.2.0*),  
-– Yi 1080p Home BFUS (8.2.0*),  
-– Yi 1080p Home BFCN (8.2.0*),  
-– Yi 1080p Home 9FUS (8.3.0*),  
+– Yi 1080p Home 9FUS (8.2.0*);  
+– Yi 1080p Home BFUS (8.2.0*);  
+– Yi 1080p Home BFCN (8.2.0*);  
+– Yi 1080p Home 9FUS (8.3.0*).  
 
 Вы можете установить это дополнение на вашу Yi камеру, если у вас уже установлена стоковая прошивка yi-hack-Allwinner, либо произвести установку одновременно со стоковой прошивкой, поместив на карту файлы и папки прошивки и папку с дополнением yi-hack. Работа дополнения проверена для стоковой прошивки Roleo начиная с версии 0.2.5.  
 
