@@ -20,3 +20,7 @@ This add-on supports the following camera models:
 
 Ссылка на стоковую прошивку Roleo https://github.com/roleoroleo/yi-hack-Allwinner/releases.  
 Буду рад, если вам понравится это дополнение.  
+
+![Дополнительное меню](https://github.com/Arkady23/yi-hack-Allwinner-plus/blob/main/Screenshots/image_2021_04_17T06_49_19_289Z.png)
+
+![Просмотр записей](https://github.com/Arkady23/yi-hack-Allwinner-plus/blob/main/Screenshots/image_2021_04_17T06_49_59_443Z.png)
